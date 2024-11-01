@@ -1,4 +1,3 @@
 # CharAI
-
-## My best website yet!
+My best website yet!
 
